@@ -1,1 +1,1 @@
-My first GIT reository comands practiced
+My first GIT repository commands practiced
